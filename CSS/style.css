@@ -9,22 +9,33 @@
 }
 body{
     padding: 25px;
-   background-image: url(/IMG/servio_background_light_4k.png);
+background-image: url(/IMG/servio_background_light_4k.png);
 }
+.header-page{
+   
+    position: fixed;
+    width: 95%;
+}
+
 
 .info{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    
+    
+    
 }
 span{
     font-family:Georgia, 'Times New Roman', Times, serif;
     font-size: 40px;
+    ;
 }
 .info a{
     color: #ffff;
 }
 .info ul{
+    
 display: flex;
 gap: 27px;
 
@@ -37,6 +48,63 @@ gap: 27px;
   background-color: 
 #2563EB;
   
+}
+
+
+.achraf{
+    border-radius: 50px;
+    
+    margin-top: 100px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+     
+    
+
+}
+.ana{
+    border: 5px solid #2563EB;
+    display: inline-block;
+    border-radius: 30px;
+    padding: 25px;
+}
+.one{
+    line-height: 1.5;
+   
+   font-size: 20px;
+   margin: 10px;
+   
+}
+
+
+.two{
+   
+    font-size: 18px;
+     padding:  0px 20px;
+   
+}
+#email {
+    
+    padding: 10px;
+    
+}
+input{
+    padding:  5px 10px;
+    border-radius: 50px;
+    border: 2px solid #2563EB;
+   
+}
+.four{
+    
+    margin: 14px;
+}
+#five {
+    color: #fff;
+    padding:5px 70px ;
+    border-radius: 30px;
+    background: #2563EB;
+}
+.four p{
+    padding: 10px 12px;
 }
 
 

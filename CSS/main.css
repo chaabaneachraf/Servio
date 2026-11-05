@@ -1,16 +1,18 @@
 .content{
     margin-top: 40px;
+   
     
 }
 .para{
     margin: 40px;
+    
 }
 .titre h1{
 font-size: 50px;
 color:#0650f0
 }
 .titre p{
-font-size: 17px;
+font-size: 19px;
 }
 .titre {
     margin-top: 30px;
@@ -36,18 +38,22 @@ font-size: 17px;
     opacity: 90%;
 }
 button{
+    margin-top: 20px;
     padding: 8px 18px;
     background-color: #2563EB;;
     color: #ffff;
     border-radius: 30px;
-    border: 2px solid ;
+    
 }
 button a{
+   
     color: #ffff;
 }
 .type{
+    
     margin-top:100px ;
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
+    gap: 10%;
 }
