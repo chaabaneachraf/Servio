@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    
+
+}
+body{
+    padding: 25px;
+   background-image: url(/IMG/servio_background_light_4k.png);
+}
+
+.info{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+span{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+.info a{
+    color: #ffff;
+}
+.info ul{
+display: flex;
+gap: 27px;
+
+
+}
+.info li {
+  border: 2px solid #E5E7EB;  
+  padding:  6px 15px;
+  border-radius: 50px;
+  background-color: 
+#2563EB;
+  
+}
+
+
+

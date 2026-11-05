@@ -1,0 +1,53 @@
+.content{
+    margin-top: 40px;
+    
+}
+.para{
+    margin: 40px;
+}
+.titre h1{
+font-size: 50px;
+color:#0650f0
+}
+.titre p{
+font-size: 17px;
+}
+.titre {
+    margin-top: 30px;
+    text-align: center;
+  
+}
+.article-content{
+   
+    border-radius: 40px;
+   margin: 100px;
+   height: 600px;
+   
+   
+}
+.categorie{
+    border-radius: 40px;
+    background-color:#e4e6ec;
+    border: 2px solid black;
+    height: 200px;
+    padding: 30px;
+    line-height: 2;
+    text-align: center;
+    opacity: 90%;
+}
+button{
+    padding: 8px 18px;
+    background-color: #2563EB;;
+    color: #ffff;
+    border-radius: 30px;
+    border: 2px solid ;
+}
+button a{
+    color: #ffff;
+}
+.type{
+    margin-top:100px ;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
